@@ -52,9 +52,6 @@ Layar percakapan langsung antara pengguna dan petugas. Tersedia area input dan t
 
 ---
 
-### 7. Profile Screen
-![Profile Screen](assets/readme/profile_screen.jpeg)
-Halaman profil pengguna. Menampilkan nama dan informasi email, serta tombol **Edit Profil** dan **Keluar**.
 
 ---
 
